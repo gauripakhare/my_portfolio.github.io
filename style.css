@@ -99,6 +99,7 @@ h2 {
   margin-top: 60px;
   color: #7600bc;
   margin-left: 1cm;
+  text-align: left;
 }
 
 #about-me p {
@@ -106,10 +107,11 @@ h2 {
   color: rgb(128, 128, 128);
   margin-top: -1cm;
   margin-left: 1cm;
+  text-align: left;
 }
 
 .profile_image {
-  width: 650px;
+  width: 300 px;
   height: fit-content;
   vertical-align: middle;
   margin-right: 5px;
