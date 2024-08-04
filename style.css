@@ -21,6 +21,7 @@ body {
   padding: 20px;
   font-size: 20px;
   text-decoration:none;
+  text-align: center;
 }
 
 .topmenu:hover {
@@ -90,26 +91,31 @@ h2 {
 
 .about-me {
   display: flex;
-  align-items: center;
+  align-items: left;
 }
 
 #about-me h1 {
   font-size: 65px;
-  margin-top: 90px;
+  margin-top: 60px;
   color: #7600bc;
+  margin-left: 1cm;
 }
 
 #about-me p {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
+  margin-left: 1cm;
 }
 
 .profile_image {
   width: 650px;
   height: fit-content;
   vertical-align: middle;
-  margin: 5px;
+  margin-right: 5px;
+  margin-left: 5cm;
+  margin-top: 5cm;
+
 }
 /* Projects */
 
