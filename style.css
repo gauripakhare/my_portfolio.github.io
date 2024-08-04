@@ -81,24 +81,21 @@ h2 {
   position: relative;
 }
 
-/* Used in the About Me sections */
 
-.container {
+/* About Me */
+.container{
   display: flex;
 }
 
-/* About Me */
-
 .about-me {
-  display: flex;
   align-items: left;
 }
 
 #about-me h1 {
   font-size: 65px;
-  margin-top: 60px;
+  margin-top: 40px;
   color: #7600bc;
-  margin-left: 1cm;
+  margin-left: 2cm;
   text-align: left;
 }
 
@@ -106,7 +103,7 @@ h2 {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
-  margin-left: 1cm;
+  margin-left:1cm;
   text-align: left;
 }
 
@@ -114,10 +111,10 @@ h2 {
   width: 300 px;
   height: fit-content;
   vertical-align: middle;
-  margin-right: 5px;
-  margin-left: 5cm;
-  margin-top: 5cm;
-
+  margin-left: 20px;
+  margin-top: 20px;
+  
+  
 }
 /* Projects */
 
